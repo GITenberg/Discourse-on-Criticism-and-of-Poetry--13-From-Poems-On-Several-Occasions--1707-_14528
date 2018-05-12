@@ -1,0 +1,41 @@
+_repo: Discourse-on-Criticism-and-of-Poetry--13-From-Poems-On-Several-Occasions--1707-_14528
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bredvold, Louis I. (Louis Ignatius)
+    alias: Bredvold, Louis Ignatius
+    birthdate: 1888
+    gutenberg_agent_id: '35370'
+    url: http://www.gutenberg.org/2009/agents/35370
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Samuel
+    birthdate: 1675
+    deathdate: 1713
+    gutenberg_agent_id: '5564'
+    url: http://www.gutenberg.org/2009/agents/5564
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Cobb_(poet)
+description: ''
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14528'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 02
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- !lcsh 'Criticism'
+tableOfContents: "A Discourse on criticism and the liberty of writing. In a Letter\
+  \ to Richard Carter Esq; late of the Middle-Temple, now living in Barbadoes. --\r\
+  \nA Discourse Of Poetry. 1. Its Antiquity. 2. Its Progress. 3. Its Improvement.\
+  \ A poem."
+title: "Discourse on Criticism and of Poetry\r\nFrom Poems On Several Occasions (1707)"
+url: http://www.gutenberg.org/ebooks/14528
