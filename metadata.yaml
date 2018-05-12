@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5564
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Cobb_(poet)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14528#Discourse-on-Criticism-and-of-Poetry--13-From-Poems-On-Several-Occasions--1707-
 gutenberg_issued: '2004-12-30'
 gutenberg_type: Text
 identifiers:
